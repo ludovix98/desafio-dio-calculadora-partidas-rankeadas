@@ -1,5 +1,5 @@
-desafio-dio-classificador-heroi
-Desafio da Dio do Classificador de Herói
+# desafio-dio-calculadora-partidas-rankeadas
+Desafio da Dio da Calculadora de Partidas Rankeadas
 
 Um desafio proposto pelo Felipe Aguiar na plataforma DIO
 
